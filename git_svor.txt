@@ -1,1 +1,15 @@
 Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+cd ==> The CD stjórn, einnig þekkt sem chdir (change directory),
+er stjórn-lína OS skel skipunina sem er notuð til að breyta núverandi vinna möppu.
+
+cd ~ ==> heimasvæði notandans er ætlað að innihalda skrár sem notanda; þ.mt texta skjöl,
+tónlist, myndir eða myndbönd, flv.
+
+lis ==> Er Linux skel stjórnar þessum listi skrá innihald skráa og möppur.
+
+pwd ==> Í Unix-Like og sumum öðrum stýrikerfum, sem pwd stjórn (prenta vinna skrá) 
+skrifar fulla pathname núverandi vinnumöppu við staðlaða framleiðslu.
+
+mkdir ==> Mkdir stjórn er er notuð til að búa til nýja framkvæmdarstjóra
+

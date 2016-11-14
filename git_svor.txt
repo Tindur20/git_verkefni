@@ -43,3 +43,5 @@ git checkout ==> er toæ a' athiga statusinn á repository sem þúu vilt
 	b) Staging area. Hann staging area er skrá, venjulega að finna í Git skrá, sem geymir upplýsingar um hvað megi fara inn um næstu þitt fremja. Það er stundum vísað til sem "index", en það er líka algengt að vísa til þess sem staging area . 
 	c) Repository. Tilgangur Git er að stjórna verkefni, eða setja af skrá, eins og þeir breytast með tímanum. Git geymir þessar upplýsingar í gögnum uppbygging kallast geymsla.
 
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	==> þegar margir eru að vinna í stóru verkefni.

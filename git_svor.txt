@@ -1,3 +1,4 @@
+Git spurningar og svör
 1. Hvað gera eftirfarandi Linux skipanir?
 cd ==> The CD stjórn, einnig þekkt sem chdir (change directory),
 er stjórn-lína OS skel skipunina sem er notuð til að breyta núverandi vinna möppu.

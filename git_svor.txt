@@ -1,0 +1,44 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+cd ==> The CD stjórn, einnig þekkt sem chdir (change directory),
+er stjórn-lína OS skel skipunina sem er notuð til að breyta núverandi vinna möppu.
+
+cd ~ ==> heimasvæði notandans er ætlað að innihalda skrár sem notanda; þ.mt texta skjöl,
+tónlist, myndir eða myndbönd, flv.
+
+lis ==> Er Linux skel stjórnar þessum listi skrá innihald skráa og möppur.
+
+pwd ==> Í Unix-Like og sumum öðrum stýrikerfum, sem pwd stjórn (prenta vinna skrá) 
+skrifar fulla pathname núverandi vinnumöppu við staðlaða framleiðslu.
+
+mkdir ==> Mkdir stjórn er er notuð til að búa til nýja framkvæmdarstjóra
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+git clone ==> afritar tilverandi directory
+git log ==> sýnir allar commits sem búið er að gera í directory-inu
+got status ==> sýnir status á directoryinu
+git diff ==>sýnir muninn á milli comits, comit og working tree
+git checkout ==> er toæ a' athiga statusinn á repository sem þúu vilt
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	==> sýnir muninn á milli comits, comit og working tree
+	b) git diff --staged 
+	==> sýnir breytur í cache/index í samhengi við tilverandi HEAD. -- staged er  sem og --cached
+	c) git diff commit1 commit2
+	==> sýnir breytingur á milli commit1 og commit2 
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+ Útgáfustýring er kerfi sem skráir breytingar á skrá eða setja af skrá yfir tíma þannig að þú getur muna.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+==> til dæmis að þú sért með allt sem þú ert að vinna í á einum stað og þú getur farið til baka ef eitthvað fór útskeris hjá þér
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+==> til dæmis eftir hvert major breyting sem þú gerir og ef þú ert að laga kóða þá í hvert skipti sem þú lagar og gerir það rétt
+
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	a) Working directory er skrá með uppspretta skrár undir git stjórn (í rót allra dirs undir stjórn .git ef skrá er til staðar).
+	b) Staging area. Hann staging area er skrá, venjulega að finna í Git skrá, sem geymir upplýsingar um hvað megi fara inn um næstu þitt fremja. Það er stundum vísað til sem "index", en það er líka algengt að vísa til þess sem staging area . 
+	c) Repository. Tilgangur Git er að stjórna verkefni, eða setja af skrá, eins og þeir breytast með tímanum. Git geymir þessar upplýsingar í gögnum uppbygging kallast geymsla.

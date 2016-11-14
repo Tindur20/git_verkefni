@@ -32,3 +32,6 @@ git checkout ==> er toæ a' athiga statusinn á repository sem þúu vilt
 4. 	Hvað er útgáfustýring (e.version control)? 
  Útgáfustýring er kerfi sem skráir breytingar á skrá eða setja af skrá yfir tíma þannig að þú getur muna.
 
+5.	Hverjir eru helstu kostir við að nota GIT?
+==> til dæmis að þú sért með allt sem þú ert að vinna í á einum stað og þú getur farið til baka ef eitthvað fór útskeris hjá þér
+

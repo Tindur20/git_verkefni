@@ -13,3 +13,19 @@ skrifar fulla pathname núverandi vinnumöppu við staðlaða framleiðslu.
 
 mkdir ==> Mkdir stjórn er er notuð til að búa til nýja framkvæmdarstjóra
 
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+git clone ==> afritar tilverandi directory
+git log ==> sýnir allar commits sem búið er að gera í directory-inu
+got status ==> sýnir status á directoryinu
+git diff ==>sýnir muninn á milli comits, comit og working tree
+git checkout ==> er toæ a' athiga statusinn á repository sem þúu vilt
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	==> sýnir muninn á milli comits, comit og working tree
+	b) git diff --staged 
+	==> sýnir breytur í cache/index í samhengi við tilverandi HEAD. -- staged er  sem og --cached
+	c) git diff commit1 commit2
+	==> sýnir breytingur á milli commit1 og commit2 
+

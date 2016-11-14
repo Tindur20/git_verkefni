@@ -35,3 +35,7 @@ git checkout ==> er toæ a' athiga statusinn á repository sem þúu vilt
 5.	Hverjir eru helstu kostir við að nota GIT?
 ==> til dæmis að þú sért með allt sem þú ert að vinna í á einum stað og þú getur farið til baka ef eitthvað fór útskeris hjá þér
 
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+==> til dæmis eftir hvert major breyting sem þú gerir og ef þú ert að laga kóða þá í hvert skipti sem þú lagar og gerir það rétt
+
+
